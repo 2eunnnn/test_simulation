@@ -65,7 +65,7 @@ const mapStyle = "mapbox://styles/spear5306/ckzcz5m8w002814o2coz02sjc";
 
 //  자신의 mapbox api key 입력
 // const MAPBOX_TOKEN = `mapbox api key`;
-const MAPBOX_TOKEN = `pk.eyJ1Ijoic2hlcnJ5MTAyNCIsImEiOiJjbG00dmtic3YwbGNoM2Zxb3V5NmhxZDZ6In0.ZBrAsHLwNihh7xqTify5hQ`;
+const MAPBOX_TOKEN = `pk.eyJ1IjoiZXVuY2hhZTMyNDkiLCJhIjoiY2x4MWZqb3M3MDNpeDJrb29tdzhlaDI3YyJ9.2j7rz3Iy8ffxFiAWfpFz6g`;
 
 const returnAnimationTime = (time) => {
     if (time > maxTime) {
